@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a Data Analytics student at Augustana College with a C
 - 🏆 HackAugie Honorable Mention — built a Flutter/Supabase migraine tracking app and owned the entire data & AI layer
 - 🌱 Currently exploring machine learning, clustering, and AI-powered analytics
 - 📈 Former SEO Data Analyst Intern at Tring India
-- 🏋️ Outside of tech, I enjoy cafe hopping and travelling, and I love to cook.
+- 🍵 Outside of tech, I enjoy cafe hopping and travelling, and I love to cook.
 
 ---
 
